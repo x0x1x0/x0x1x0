@@ -1,12 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jan</h1>
+<h3 align="center">A passionate learner from Germany</h3>
 
-<!--
-**x0x1x0/x0x1x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **multiple introductory Courses**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
